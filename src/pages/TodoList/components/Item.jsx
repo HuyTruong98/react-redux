@@ -9,7 +9,7 @@ function Item(props) {
     function renderItemView() {
         return (
             <Row>
-                <Col span={8}>Title:</Col>
+                <Col span={8}>Title AAA:</Col>
                 <Col span={16}>{title}</Col>
                 {isShowDetail && (
                     <>
